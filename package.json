@@ -8,6 +8,7 @@
     "url": "https://github.com/contentful/starter-gatsby-blog/issues"
   },
   "dependencies": {
+    "@babel/traverse": "^7.23.2",
     "@contentful/rich-text-plain-text-renderer": "^15.12.1",
     "gatsby": "^5.5.0",
     "gatsby-plugin-image": "^3.5.0",
@@ -25,7 +26,7 @@
   "devDependencies": {
     "contentful-import": "^8.3.2",
     "gatsby-provision-contentful": "^0.0.5",
-    "netlify-cli": "^10.0.0"
+    "netlify-cli": "^17.37.2"
   },
   "engines": {
     "node": ">=18.0.0"

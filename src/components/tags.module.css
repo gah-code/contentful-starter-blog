@@ -9,3 +9,7 @@
   line-height: var(--solid);
   padding: var(--space-sm) var(--space-md);
 }
+
+/* a {
+  padding-left: var(--space-sm);
+} */

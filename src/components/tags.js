@@ -1,21 +1,3 @@
-// import React from 'react'
-
-// import * as styles from './tags.module.css'
-// import { Link } from 'gatsby'
-
-// const Tags = ({ tags }) =>
-//   tags?.length > 0 && (
-//     <small className={styles.tags}>
-//       {tags.map((tag) => (
-//         <Link key={tag} className={styles.tag}>
-//           {tag}
-//         </Link>
-//       ))}
-//     </small>
-//   )
-
-// export default Tags
-
 import React from 'react'
 import * as styles from './tags.module.css'
 import { Link } from 'gatsby'

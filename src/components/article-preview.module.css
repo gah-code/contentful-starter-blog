@@ -27,3 +27,8 @@
   display: flex;
   justify-content: space-between;
 }
+
+.tagLink {
+  padding-left: 8px;
+  background-color: rgb(242, 242, 229);
+}

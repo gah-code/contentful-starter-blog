@@ -2,7 +2,7 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import Layout from '../components/layout'
 import Seo from '../components/seo'
-import ArticlePreview from '../components/article-preview'
+import ArticlePreview from '../components/ui/article-preview'
 
 const TagTemplate = ({ data, pageContext }) => {
   const posts = data.allContentfulBlogPost.nodes
